@@ -1,4 +1,4 @@
 # ADA-SCHOOL
 
-En este repositorio se cuardara todo sobre el  
+En este repositorio se guardara todo sobre el  
 progrma de Desarrollo Fullstak con Python
